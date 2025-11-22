@@ -8,6 +8,10 @@ name: CI
   pull_request:
     branches: [main]
 
+# Explicitly limit permissions for security
+permissions:
+  contents: read
+
 jobs:
   markdown-lint:
     name: Markdown Lint

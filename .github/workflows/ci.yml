@@ -24,8 +24,8 @@ jobs:
         run: npm install -g markdownlint-cli
 
       - name: Run markdownlint
-        run: markdownlint '**/*.md' --ignore node_modules || true
-        continue-on-error: true
+        run: markdownlint '**/*.md' --ignore node_modules
+        continue-on-error: false
 
   link-check:
     name: Link Check
@@ -37,7 +37,7 @@ jobs:
       - name: Link Checker
         uses: lycheeverse/lychee-action@v1
         with:
-          args: --verbose --no-progress '**/*.md'
+          args: --verbose --no-progress --accept 200,403,429 '**/*.md'
           fail: false
         continue-on-error: true
 

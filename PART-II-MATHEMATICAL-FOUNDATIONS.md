@@ -20,7 +20,7 @@ M = L*.
 Consciousness is discussed as a Projection Operator P_d and not merely as a coordinate.
 
 ## 2.5 Idolatry as Orthogonal Subspace
-We explore the concept of Idolatry as an Orthogonal Subspace H_orth.
+We explore the concept of Idolatry as an Orthogonal Subspace H_⊥ (read: H-perp), where actions orthogonal to the purpose vector p represent idolatrous behavior.
 
 ## 2.6 Summary
 In this section, we mention the 25/30 (83%) convergence validation.

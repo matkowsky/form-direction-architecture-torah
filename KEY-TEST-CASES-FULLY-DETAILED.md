@@ -30,10 +30,10 @@ The Talmud emphasizes the necessity of separative intent in legal and moral deci
 
 ### Directional Consciousness Discovery  
 This discovery illustrates that consciousness encompasses direction, not just magnitude.  
-- Formula: d in S² × [0, 1] represents vector on the unit sphere.
-- Projection Formula: P_d(a) = |d| × cos(θ) × a, where θ = angle between â and d.
-    - Get with Chesed Consciousness: θ ≈ π, therefore cos(θ) ≈ -1 ⇒ Invalid.  
-    - Kiddushin with Chesed Consciousness: θ ≈ 0, therefore cos(θ) ≈ 1 ⇒ Valid.  
+- Formula: d ∈ S² × [0, 1] represents a vector on the unit sphere with intensity.
+- Projection Formula: P_d(a) = |d|·⟨d̂,s⟩·a, where d̂ ∈ S² is the direction and s is the intention vector.
+    - Get with Chesed Consciousness: d̂ opposed to required Gevurah direction ⇒ ⟨d̂,s⟩ ≈ -1 ⇒ Invalid.  
+    - Kiddushin with Chesed Consciousness: d̂ aligned with required direction ⇒ ⟨d̂,s⟩ ≈ 1 ⇒ Valid.  
 
 ### Test Case 22: Shaliach  
 This case reveals non-local consciousness discovery wherein the action transcends spatial limitations.

@@ -44,8 +44,9 @@ Please use the following format for citations: [Author(s), Year, Title, Link].
 In memory of **Prof. Bernard J. Matkowsky (1939-2017)**, whose contributions have paved the way for this research.
 
 ## Status Checklist
-- [ ] Initial research completed
-- [ ] Empirical validation ongoing
+- [x] Initial research completed
+- [x] Empirical validation completed
+- [x] All reviews accepted and incorporated
 
 ## License
 This project is licensed under the **CC BY 4.0 License**.

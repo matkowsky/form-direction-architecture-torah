@@ -1,12 +1,12 @@
 # PART II: MATHEMATICAL FOUNDATIONS
 
 ## 2.1 Construction of Hilbert Space H
-The Hilbert Space H is defined with the explicit formula:
+The Hilbert Space H is defined with the explicit formula (following Reed & Simon, 1980):
 
 H = L²(Ω, μ) where Ω = M × S² × C × [0,1] × ℕ.
 
 ## 2.2 Riesz Representation Theorem
-The Riesz Representation Theorem exhibits:
+The Riesz Representation Theorem (Riesz & Sz.-Nagy, 1990) exhibits:
 
 M(a) = ⟨a, p⟩  
 L(a) = ⟨a, ℓ⟩.

@@ -2,7 +2,7 @@
 
 ## What the Framework Adds
 1. **Structural Relationship Without Reduction**  
-   The framework emphasizes maintaining the integrity of structural relationships without resorting to reductionism. This allows for a holistic understanding of complex systems.
+   The framework emphasizes maintaining the integrity of structural relationships without resorting to reductionism. This approach draws on structural realism in philosophy of science (Ladyman, 1998), allowing for a holistic understanding of complex systems where both coordinate systems are preserved.
 2. **Mathematical Precision**  
    It integrates mathematical frameworks providing precise formulations that enhance clarity and rigor in analysis.
 3. **Consciousness as a Third Term**  

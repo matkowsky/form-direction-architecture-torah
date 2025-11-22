@@ -4,7 +4,7 @@ This work is dedicated to **Bernard J. Matkowsky (1939-2017)**, whose pioneering
 
 ### Scholarly Annotation
 
-Bernard's matched asymptotic expansion methods can be applied to the **Maharal-Lurianic** problem, illuminating how these mathematical tools parallel spiritual inquiries. In this context, we observe structural parallels between inner and outer expansions, which resonate with the concepts of purpose and light coordinates in Kabbalistic thought.
+Bernard Matkowsky's matched asymptotic expansion methods (Matkowsky, 1979; Matkowsky & Sivashinsky, 1978) can be applied to the **Maharal-Lurianic** problem, illuminating how these mathematical tools parallel spiritual inquiries. In this context, we observe structural parallels between inner and outer expansions, which resonate with the concepts of purpose and light coordinates in Kabbalistic thought.
 
 Moreover, the matching layer concept finds intriguing applications in consciousness, particularly through the lens of **da'at**. This methodology emphasizes the importance of connecting various layers of understanding, leading to a more profound grasp of both scientific and metaphysical realms. The accompanying four-point methodological template serves as a guiding structure for navigating these complex interrelations.
 

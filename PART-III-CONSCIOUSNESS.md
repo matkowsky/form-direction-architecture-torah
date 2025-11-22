@@ -4,7 +4,7 @@
 Da'at, often translated as knowledge or consciousness, is distinct from spatial or temporal coordinates. While coordinates provide a location within a framework, da'at embodies a qualitative understanding that transcends mere positioning. It is essential to grasp that da'at is not simply an additional point of reference; rather, it is integrative, bringing together various dimensions of experience.
 
 ## Consciousness as Projection Operator P_d
-In quantum mechanics, a projection operator is used to derive probabilities from a state. In this context, we interpret consciousness as a projection operator, denoted as P_d, which filters potential realities into the observable. This suggests that consciousness plays a pivotal role in determining what is 'real' versus what remains latent.
+In quantum mechanics, a projection operator is used to derive probabilities from a state (von Neumann, 1955). In this context, we interpret consciousness as a projection operator, denoted as P_d, which filters potential realities into the observable. This suggests that consciousness plays a pivotal role in determining what is 'real' versus what remains latent.
 
 ## The Measurement Problem in Jewish Thought
 Jewish philosophical discourse presents unique perspectives on the measurement problem, particularly in the context of consciousness. The act of measurement—as an interaction between the observer and the observed—mirrors the dynamic interplay between the Divine and the created world. This invites a deeper exploration of how consciousness influences reality from a Jewish ontological standpoint.

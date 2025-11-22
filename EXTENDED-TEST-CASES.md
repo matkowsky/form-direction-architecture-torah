@@ -17,7 +17,7 @@ Each of these test cases demonstrates full convergence according to Maharal's an
 
 #### Test Case 16
 - **Directional Consciousness**: This case reveals that a *get* requires Gevurah-separative consciousness while *kiddushin* demands Chesed-unitive consciousness. The extended model formulation is:
-  - **Formula**: P_d(a) = |d| * cos(theta) * a
+  - **Formula**: P_d(a) = |d| × cos(θ) × a
   - Where d represents directional dimensions.
 
 #### Test Case 22

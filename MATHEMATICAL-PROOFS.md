@@ -21,13 +21,13 @@ W(m_a,m_b) = {
 I(s_a,s_b) = cos(θ)  
 
 ### Context Compatibility C(x_a,x_b)
-C(x_a,x_b) = T·P·R  
+C(x_a,x_b) = T × P × R  
 
 ### Consciousness Correlation D(d_a,d_b)
-D(d_a,d_b) = √(d_a·d_b)  
+D(d_a,d_b) = √(d_a × d_b)  
 
 ### Repetition Normalization N(n_a,n_b)
-N(n_a,n_b) = 1/√(n_a·n_b)  
+N(n_a,n_b) = 1/√(n_a × n_b)  
 
 ## 4. Riesz Representation Theorems
 ### Theorem 4.2
@@ -40,7 +40,7 @@ We prove that M = L* with empirical validation indicating 83% convergence...
 
 ## 6. Theorem 6.1 on Consciousness as Projection Operator
 ### Projection Operator P_d(a)
-P_d(a) = d·a  
+P_d(a) = d × a  
 
 ### Non-Negotiability Proof
 We provide a thorough proof of the non-negotiability properties...  
@@ -53,7 +53,7 @@ Further results pertaining to idolatry...
 
 ## 8. Theorem on Directional Consciousness
 ### Theorem 8.1
-We establish that d ∈ S² × [0,1] with the formula P_d(a) = |d|·cos(θ)·a.  
+We establish that d ∈ S² × [0,1] with the formula P_d(a) = |d| × cos(θ) × a.  
 
 ## 9. Statistical Validation
 We present the convergence metric, detailing 25/30 results and a p-value < 0.0001.  

@@ -76,7 +76,9 @@ P_d(a) = |d|·⟨d̂,s⟩·a
 where d̂ is the directional component in S² and |d| is the intensity in [0,1].
 
 ### Non-Negotiability Proof
-We provide a thorough proof of the non-negotiability properties...  
+**Theorem 6.2**: The consciousness operator P_d is non-negotiable in the sense that for any action a ∈ H, the conscious component cannot be traded for increased magnitude in other dimensions.
+
+**Proof**: Suppose we attempt to compensate for reduced consciousness |d| by increasing mitzvah weight or other factors. The projection operator structure P_d(a) = |d|·⟨d̂,s⟩·a shows that consciousness multiplies the entire action vector. When |d| → 0 (loss of consciousness), the entire action vanishes regardless of other parameters. This demonstrates the non-negotiable nature of consciousness in the framework. ∎  
 
 ## 7. Theorems on Idolatry
 ### Theorem 7.1

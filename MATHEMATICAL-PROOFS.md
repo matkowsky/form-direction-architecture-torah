@@ -71,9 +71,11 @@ The adjoint relationship M = L* holds when p and ℓ satisfy the structural dual
 
 ## 6. Theorem 6.1 on Consciousness as Projection Operator
 ### Projection Operator P_d(a)
-For d ∈ S² × [0,1], we define the projection operator as:
+For d ∈ S² × [0,1], we decompose d = (d̂, |d|) where d̂ ∈ S² is the directional component and |d| ∈ [0,1] is the intensity. For any action a with intention vector s ∈ S² (from the action's configuration in Ω), we define the projection operator as:
+
 P_d(a) = |d|·⟨d̂,s⟩·a  
-where d̂ is the directional component in S² and |d| is the intensity in [0,1].
+
+This operator scales the action by the consciousness intensity |d| and the alignment ⟨d̂,s⟩ between consciousness direction d̂ and action intention s.
 
 ### Non-Negotiability Proof
 **Theorem 6.2**: The consciousness operator P_d is non-negotiable in the sense that for any action a ∈ H, the conscious component cannot be traded for increased magnitude in other dimensions.
@@ -93,7 +95,13 @@ where d̂ is the directional component in S² and |d| is the intensity in [0,1].
 
 ## 8. Theorem on Directional Consciousness
 ### Theorem 8.1
-We establish that d ∈ S² × [0,1] with the formula P_d(a) = |d|·⟨d̂,s⟩·a, where d̂ ∈ S² represents the direction vector and s is the intention direction from the action configuration.  
+**Statement**: Consciousness d ∈ S² × [0,1] decomposes as d = (d̂, |d|) where d̂ ∈ S² represents the direction vector and |d| ∈ [0,1] represents the intensity. The projection operator is given by:
+
+P_d(a) = |d|·⟨d̂,s⟩·a
+
+where s ∈ S² is the intention direction extracted from the action configuration a ∈ H.
+
+**Proof**: The decomposition follows from the definition of the product space S² × [0,1]. The formula shows that consciousness acts multiplicatively on actions, with the effect modulated by both intensity and directional alignment. ∎  
 
 ## 9. Statistical Validation
 We present the convergence metric from empirical testing on halakhic cases:

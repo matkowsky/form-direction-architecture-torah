@@ -47,6 +47,24 @@
 
 ### Philosophy of Mathematics
 - Shapiro, Stewart. *Philosophy of Mathematics: Structure and Ontology*. Oxford University Press, 1997.
+- Benacerraf, Paul, and Hilary Putnam, eds. *Philosophy of Mathematics: Selected Readings*. 2nd ed. Cambridge University Press, 1983.
+- Lakatos, Imre. *Proofs and Refutations: The Logic of Mathematical Discovery*. Cambridge University Press, 1976.
+- Maddy, Penelope. *Naturalism in Mathematics*. Oxford University Press, 1997.
+
+### Classical Philosophy of Mathematics
+- Frege, Gottlob. *The Foundations of Arithmetic*. Translated by J.L. Austin. Northwestern University Press, 1980 [1884].
+- Brouwer, L.E.J. "Intuitionism and Formalism." *Bulletin of the American Mathematical Society* 20, no. 2 (1913): 81-96.
+- Hilbert, David. "On the Infinite." In *Philosophy of Mathematics: Selected Readings*, edited by Paul Benacerraf and Hilary Putnam, 183-201. Cambridge University Press, 1983.
+
+### Epistemology and Philosophy of Science  
+- Quine, W.V.O. "Two Dogmas of Empiricism." *Philosophical Review* 60, no. 1 (1951): 20-43.
+- Popper, Karl. *The Logic of Scientific Discovery*. Routledge, 1959.
+- Kuhn, Thomas. *The Structure of Scientific Revolutions*. University of Chicago Press, 1962.
+- Van Fraassen, Bas. *The Scientific Image*. Oxford University Press, 1980.
+
+### Consciousness Studies
+- Tononi, Giulio. "Integrated Information Theory of Consciousness: An Updated Account." *Archives Italiennes de Biologie* 150, no. 2-3 (2012): 56-90.
+- Chalmers, David. *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press, 1996.
 
 ---
 

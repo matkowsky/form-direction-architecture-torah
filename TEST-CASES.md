@@ -80,7 +80,7 @@ The Maharal discusses the concept of purposive separation versus unity, emphasiz
 #### 🔬 Directional Consciousness Discovery
 This case reveals that consciousness encompasses **direction**, not just magnitude:
 - **Formula**: d ∈ S² × [0,1] represents vector on the unit sphere
-- **Projection Formula**: P_d(a) = |d| × cos(θ) × a, where θ = angle between â and d
+- **Projection Formula**: P_d(a) = |d| × cos(θ) × a, where θ = angle between the unit vector of a and d
   - ***Get* with Chesed Consciousness**: θ ≈ π, therefore cos(θ) ≈ -1 ⇒ Invalid
   - ***Kiddushin* with Chesed Consciousness**: θ ≈ 0, therefore cos(θ) ≈ 1 ⇒ Valid
   - ***Get* requires Gevurah (separative) consciousness**
@@ -172,14 +172,14 @@ Including:
 
 ## Summary Table
 
-| Test Case | Domain | Maharal M(a) | Lurianic L(a) | Halakhic Ruling | Result |
-|-----------|--------|--------------|---------------|-----------------|--------|
-| 1-25 | Various | Convergent | Convergent | Validated | ✔ Full |
-| 26 | Sukkah height | 10 tefachim | 10 sefirot | 10 tefachim | ⚠ Partial |
-| 27 | Four species | 4 required | 4 required | 4 species | ⚠ Partial |
-| 28 | Kezayit volume | Valid | Valid | Standard | ⚠ Partial |
-| 29 | Omer counting | 49 days | 7×7 days | 49 days | ⚠ Partial |
-| 30 | Minyan | 10 persons | 10 persons | 10 required | ⚠ Partial |
+| Test Case | Domain         | Maharal M(a)  | Lurianic L(a) | Halakhic Ruling  | Result    |
+|-----------|----------------|---------------|---------------|------------------|-----------|
+| 1-25      | Various        | Convergent    | Convergent    | Validated        | ✔ Full    |
+| 26        | Sukkah height  | 10 tefachim   | 10 sefirot    | 10 tefachim      | ⚠ Partial |
+| 27        | Four species   | 4 required    | 4 required    | 4 species        | ⚠ Partial |
+| 28        | Kezayit volume | Valid         | Valid         | Standard         | ⚠ Partial |
+| 29        | Omer counting  | 49 days       | 7×7 days      | 49 days          | ⚠ Partial |
+| 30        | Minyan         | 10 persons    | 10 persons    | 10 required      | ⚠ Partial |
 
 ---
 

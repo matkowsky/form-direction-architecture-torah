@@ -49,7 +49,7 @@ In memory of **Prof. Bernard J. Matkowsky (1939-2017)**, whose contributions hav
 - [x] All reviews accepted and incorporated
 
 ## License
-This project is licensed under the **CC BY 4.0 License**.
+This project is licensed under the **MIT License**.
 
 ## Contact Information
 For inquiries, please contact: [Your contact info]

@@ -22,7 +22,7 @@ This project proposes a groundbreaking solution: **These frameworks aren't oppos
 ## 🔍 Key Innovations
 
 ### Mathematical Framework
-- **Hilbert Space Construction**: H = L²(Ω, μ) where Ω = M × S² × C × [0,1] × ℕ
+- **Hilbert Space Construction**: H = L²(Ω, μ) - A function space where Ω represents the product space of mitzvot (M), directions (S²), consciousness states (C), intensity levels ([0,1]), and discrete levels (ℕ)
 - **Dual Coordinate Systems**: Purpose coordinates (Maharal) and Light coordinates (Luria) as complementary perspectives
 - **Consciousness as Projection Operator**: Mathematical formalization of da'at (conscious awareness)
 - **Matched Asymptotic Expansion Methods**: Inspired by Prof. Bernard J. Matkowsky's combustion theory work
@@ -141,7 +141,7 @@ Key documents to start with:
 ### Citation Format
 When citing this work, please use:
 ```
-Matkowsky. (2025). Form, Direction, and the Architecture of Torah: 
+Matkowsky, M. (2025). Form, Direction, and the Architecture of Torah: 
 A Mathematical–Mystical Framework With Halakhic Validation. 
 GitHub repository: https://github.com/matkowsky/form-direction-architecture-torah
 ```

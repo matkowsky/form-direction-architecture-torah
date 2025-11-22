@@ -2,6 +2,8 @@
 **Author:** Matkowsky  
 **Date:** November 22, 2025  
 
+**Abstract:** For a comprehensive abstract of this paper, see [ABSTRACT.md](ABSTRACT.md).
+
 ## Dedication
 This paper is dedicated to **Bernard J. Matkowsky (1939-2017)**. His groundbreaking work on matched asymptotic expansions has provided structural parallels essential to both combustion phenomena and the Maharal-Lurianic problem, highlighting the depths of mathematical thought and philosophical inquiry.
 

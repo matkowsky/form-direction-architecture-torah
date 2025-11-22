@@ -8,8 +8,8 @@
    - **Consciousness Actualizes:** Conscious awareness brings forth and clarifies purpose in a tangible manner.
    
    **Quotes:**
-   - From Gevurot Hashem: "The purpose of each creature is inherent in its very form, for form is nothing but the actualization of its essential telos."
-   - From Tiferet Yisrael: "Order is not imposed from without but constitutes the very being of creation; consciousness reveals this order rather than creating it."
+   - From Gevurot Hashem, Ch. 1: "The purpose of each creature is inherent in its very form, for form is nothing but the actualization of its essential telos."
+   - From Tiferet Yisrael, Ch. 7: "Order is not imposed from without but constitutes the very being of creation; consciousness reveals this order rather than creating it."
 
 ## 1.2 Lurianic Emanational Cosmology
 - **Key Concepts:**

@@ -4,9 +4,23 @@
 This repository contains a scholarly paper addressing the four-century theological tension between Maharal of Prague's teleological ontology and Lurianic Kabbalistic emanational cosmology through a novel mathematical-mystical synthesis using Hilbert space theory. The framework achieves 83% empirical convergence across 30 halakhic test cases. For the complete abstract, see [ABSTRACT.md](ABSTRACT.md).
 
 ## Repository Contents
-- Main mathematical constructs
-- Empirical validation tests
-- Scripts and utilities
+
+### Main Paper
+- [MAIN-PAPER.md](MAIN-PAPER.md) - Complete paper with structure and references
+- [ABSTRACT.md](ABSTRACT.md) - Comprehensive abstract
+- [DEDICATION-AND-INTRODUCTION.md](DEDICATION-AND-INTRODUCTION.md) - Detailed dedication and introduction
+
+### Core Sections
+- [PART-I-LITERATURE-REVIEW.md](PART-I-LITERATURE-REVIEW.md) - Historical context and previous approaches
+- [PART-II-MATHEMATICAL-FOUNDATIONS.md](PART-II-MATHEMATICAL-FOUNDATIONS.md) - Hilbert space construction
+- [PART-III-CONSCIOUSNESS.md](PART-III-CONSCIOUSNESS.md) - Consciousness as projection operator
+- [TEST-CASES.md](TEST-CASES.md) - Complete analysis of 30 halakhic test cases
+- [PART-V-ANALYSIS.md](PART-V-ANALYSIS.md) - Framework analysis and conclusions
+
+### Supporting Materials
+- [MATHEMATICAL-PROOFS.md](MATHEMATICAL-PROOFS.md) - Detailed mathematical proofs
+- [BIBLIOGRAPHY.md](BIBLIOGRAPHY.md) - Complete references
+- [LINKEDIN-NEWSLETTER.md](LINKEDIN-NEWSLETTER.md) - Public announcement and collaboration guide
 
 ## Key Results
 ### Mathematical Framework

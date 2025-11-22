@@ -1,6 +1,6 @@
 # Dedication
 
-This work is dedicated to **Bernard J. Matkowsky (1939-2017)**, whose pioneering research and methods in combustion theory, particularly matched asymptotic expansions, provide a vital framework for understanding complex problems across various disciplines. His innovative approaches not only shaped theoretical advancements but also bridged gaps between seemingly disparate areas of inquiry.
+This work is dedicated to the memory of **Bernard J. Matkowsky zt"l (1939-2017)**, whose pioneering research and methods in combustion theory, particularly matched asymptotic expansions, provide a vital framework for understanding complex problems across various disciplines. His innovative approaches not only shaped theoretical advancements but also bridged gaps between seemingly disparate areas of inquiry.
 
 ### Scholarly Annotation
 
@@ -16,7 +16,7 @@ At the heart of this inquiry lies the central claim: the relationship between th
 
 Validation against a set of **30 halakhic test cases** reveals a significant convergence rate of **25 out of 30 (83%)**, providing empirical support for the theoretical frameworks proposed herein. This convergence underscores the validity of integrating these distinct yet complementary paradigms.
 
-Finally, this paper will be structured into five parts:
+Finally, this paper is structured into five parts:
 1. **Historical Context** — A review of the evolution of Maharal's and Luria's ideas.
 2. **Methodological Framework** — An exposition of the four-point methodological template.
 3. **Mathematical Paradigms** — The application of matched asymptotic expansion methods to spiritual concepts.

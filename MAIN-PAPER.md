@@ -1,15 +1,17 @@
-# Form, Direction, and the Architecture of Torah - A Mathematical–Mystical Framework With Halakhic Validation
+# Form, Direction, and the Architecture of Torah: A Mathematical–Mystical Framework With Halakhic Validation
 **Author:** Matkowsky  
 **Date:** November 22, 2025  
 
 ## Dedication
-This paper is dedicated to **Bernard J. Matkowsky (1939-2017)**. His groundbreaking work on matched asymptotic expansions has provided structural parallels essential to both combustion phenomena and the Maharal-Lurianic problem, highlighting the depths of mathematical thought and philosophical inquiry.
+This paper is dedicated to the memory of **Bernard J. Matkowsky zt"l (1939-2017)**. His groundbreaking work on matched asymptotic expansions has provided structural parallels essential to both combustion phenomena and the Maharal-Lurianic problem, highlighting the depths of mathematical thought and philosophical inquiry.
 
 ## Introduction
-For four centuries, there has been a tension between Maharal's teleological ontology and Lurianic emanational cosmology. This paper seeks to explore this tension and offer a synthesis that will illuminate the dual nature of these frameworks.
+For four centuries, there has been a tension between the Maharal zt"l's teleological ontology and Lurianic emanational cosmology. This paper seeks to explore this tension and offer a synthesis that will illuminate the dual nature of these frameworks.
+
+**Methodological Note:** This work employs mathematical formalism as an analytical tool to explore structural relationships between two major approaches in Jewish thought. It does not claim that spiritual realities are reducible to mathematics, nor does it establish new halakhic principles. Rather, it follows in the tradition of scholars who have used various frameworks—philosophical, linguistic, or mathematical—to better understand the profound wisdom of our mesorah (tradition).
 
 ### Central Claim
-The paper will position its central claim around the dual coordinate systems that govern both Maharal's and Luria's perspectives.
+The paper positions its central claim around the dual coordinate systems that govern both the Maharal's and R. Isaac Luria's (the Arizal zt"l's) perspectives, proposing that they operate as complementary frameworks within a unified conceptual space rather than as contradictory metaphysical systems.
 
 ### Structure of the Paper
 1. **Literature Review**  

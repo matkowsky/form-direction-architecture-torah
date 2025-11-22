@@ -41,7 +41,7 @@ Please use the following format for citations: [Author(s), Year, Title, Link].
 - Consciousness Studies
 
 ## Memorial
-In memory of **Prof. Bernard J. Matkowsky (1939-2017)**, whose contributions have paved the way for this research.
+In memory of **Prof. Bernard J. Matkowsky zt"l (1939-2017)**, whose contributions have paved the way for this research.
 
 ## Status Checklist
 - [ ] Initial research completed

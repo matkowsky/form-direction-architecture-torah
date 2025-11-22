@@ -1,0 +1,24 @@
+# Code Owners for form-direction-architecture-torah
+# These owners will be requested for review when someone opens a pull request.
+
+# Default owners for everything in the repo
+* @matkowsky
+
+# Specific ownership for core documentation
+/README.md @matkowsky
+/MAIN-PAPER.md @matkowsky
+/ABSTRACT.md @matkowsky
+
+# Mathematical and theoretical content
+/MATHEMATICAL-PROOFS.md @matkowsky
+/INNER-PRODUCT-FORMALIZATION.md @matkowsky
+/PART-II-MATHEMATICAL-FOUNDATIONS.md @matkowsky
+
+# Test cases and validation
+/PART-IV-TEST-CASES.md @matkowsky
+/COMPLETE-30-TEST-CASES-DETAILED.md @matkowsky
+/EXTENDED-TEST-CASES.md @matkowsky
+/KEY-TEST-CASES-FULLY-DETAILED.md @matkowsky
+
+# GitHub workflows and configurations
+/.github/ @matkowsky

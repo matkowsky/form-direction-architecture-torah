@@ -57,7 +57,7 @@ Each of these test cases demonstrates full convergence according to Maharal's an
 - **Matkowsky**
 
 ### Dedicated To
-- **Bernard J. Matkowsky** (1939-2017)
+- **Bernard J. Matkowsky zt"l** (1939-2017)
 
 ### Date of Analysis
 - 2025-11-22

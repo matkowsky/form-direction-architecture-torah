@@ -10,6 +10,9 @@ In this section, we construct the configuration space using the Cartesian produc
 We establish that H forms a Hilbert space by demonstrating the vector space structure, satisfying the inner product axioms, and showing completeness via the Riesz-Fischer theorem. The details of each axiom will be rigorously checked...  
 
 ## 3. Explicit Inner Product Construction
+
+**Note**: The following formulas represent analytical relationships, not claims about the ontological nature of mitzvot or spiritual realities.
+
 ### Mitzvah Weight W(m_a,m_b)
 W(m_a,m_b) = { 
 1 if m_a and m_b are the same, 

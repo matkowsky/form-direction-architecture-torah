@@ -2,7 +2,7 @@
 
 **Date:** 2025-11-22  
 **Author:** matkowsky  
-**Dedicated to:** Bernard J. Matkowsky (1939-2017)  
+**Dedicated to:** Bernard J. Matkowsky zt"l (1939-2017)  
 
 ## Introduction  
 This document presents the nine most critical test cases that demonstrate the key findings of the framework. Each test case has been meticulously analyzed to reveal its significance in the broader context of the research.
@@ -13,11 +13,11 @@ The Maharal discusses the concept of purposive separation versus unity, emphasiz
 > "The separation is not merely physical but deeply rooted in the consciousness of purpose..."  
 
 #### Lurianic Analysis of Gevurah vs. Chesed Channels  
-- Gevurah: Represents restraint and judgement.  
-- Chesed: Symbolizes boundless kindness and flow.
+- *Gevurah*: Represents restraint and judgment.  
+- *Chesed*: Symbolizes boundless kindness and flow.
 Specific Sefirot Descriptions:  
-- Gevurah: Severity, discipline.  
-- Chesed: Love, mercy.  
+- *Gevurah*: Severity, discipline, the power of limitation and boundaries.  
+- *Chesed*: Love, mercy, the power of expansiveness and giving.  
 
 #### Predictions  
 - M(a) ≈ 0  

@@ -1,5 +1,11 @@
 # PART I: LITERATURE REVIEW
 
+**Author:** matkowsky  
+**Date:** November 22, 2025  
+**In Memory of:** Prof. Bernard J. Matkowsky (1939–2017)
+
+---
+
 ## 1.1 Maharal's Teleological Ontology
 - **Core Principles:**
    - **Purpose is Intrinsic:** The inherent purpose of beings impacts their existence and comprehension.

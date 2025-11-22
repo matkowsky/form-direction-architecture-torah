@@ -58,8 +58,9 @@ The framework's 83% convergence rate with zero falsifications suggests it captur
 ## How to Cite
 Please use the following format for citations:
 ```
-Matkowsky. (2025). Form, Direction, and the Architecture of Torah: A Mathematical–Mystical Framework With Halakhic Validation. GitHub repository. https://github.com/matkowsky/form-direction-architecture-torah
+Matkowsky [Author]. (2025). Form, Direction, and the Architecture of Torah: A Mathematical–Mystical Framework With Halakhic Validation. GitHub repository. https://github.com/matkowsky/form-direction-architecture-torah
 ```
+Note: Replace [Author] with appropriate attribution if full name is to be disclosed in publication.
 
 ## Target Journals
 - Journal of Jewish Thought and Philosophy

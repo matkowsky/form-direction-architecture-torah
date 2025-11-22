@@ -25,7 +25,7 @@
 | **Causal Direction**    | Teleological (from end to means) | Emanational (from source downward) |
 | **Human Action**        | Actualizes inherent purpose      | Elevates divine sparks          |
 | **Consciousness Role**  | Actualization of potential       | Measurement/rectification       |
-| **Disorder/Brokenness** | Absence of actualized form       | Broken vessels (shevirat hakelim) |
+| **Disorder/Brokenness** | Absence of actualized form       | Broken vessels (*shevirat hakelim*) |
 | **Hierarchy**           | Logical/ontological order        | Emanational chain of being      |
 | **Mitzvot**            | Expressions of cosmic order      | Tools for cosmic repair (tikkun) |
 

@@ -7,17 +7,17 @@
 ## Introduction  
 This document presents the nine most critical test cases that demonstrate the key findings of the framework. Each test case has been meticulously analyzed to reveal its significance in the broader context of the research.
 
-### Test Case 16: Get with Unitive Consciousness  
-#### Maharal Analysis from Tiferet Yisrael  
+### Test Case 16: *Get* with Unitive Consciousness  
+#### Maharal Analysis from *Tiferet Yisrael*  
 The Maharal discusses the concept of purposive separation versus unity, emphasizing how unity underlies the functional aspect of divine command.
 > "The separation is not merely physical but deeply rooted in the consciousness of purpose..."  
 
 #### Lurianic Analysis of Gevurah vs. Chesed Channels  
-- Gevurah: Represents restraint and judgement.  
-- Chesed: Symbolizes boundless kindness and flow.
+- **Gevurah:** Represents restraint and judgment.  
+- **Chesed:** Symbolizes boundless kindness and flow.
 Specific Sefirot Descriptions:  
-- Gevurah: Severity, discipline.  
-- Chesed: Love, mercy.  
+- **Gevurah:** Severity, discipline.  
+- **Chesed:** Love, mercy.  
 
 #### Predictions  
 - M(a) ≈ 0  
@@ -32,10 +32,10 @@ The Talmud emphasizes the necessity of separative intent in legal and moral deci
 This discovery illustrates that consciousness encompasses direction, not just magnitude.  
 - Formula: d in S² × [0, 1] represents vector on the unit sphere.
 - Projection Formula: P_d(a) = |d| × cos(θ) × a, where θ = angle between â and d.
-    - Get with Chesed Consciousness: θ ≈ π, therefore cos(θ) ≈ -1 ⇒ Invalid.  
-    - Kiddushin with Chesed Consciousness: θ ≈ 0, therefore cos(θ) ≈ 1 ⇒ Valid.  
+    - *Get* with Chesed Consciousness: θ ≈ π, therefore cos(θ) ≈ -1 ⇒ Invalid.  
+    - *Kiddushin* with Chesed Consciousness: θ ≈ 0, therefore cos(θ) ≈ 1 ⇒ Valid.  
 
-### Test Case 22: Shaliach  
+### Test Case 22: *Shaliach*  
 This case reveals non-local consciousness discovery wherein the action transcends spatial limitations.
 
 ### Full Convergence Details for Test Cases 1, 2, 8, 10  

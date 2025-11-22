@@ -16,12 +16,12 @@ Each of these test cases demonstrates full convergence according to Maharal's an
 ### Specific Analysis
 
 #### Test Case 16
-- **Directional Consciousness**: This case reveals that a Get requires Gevurah-separative consciousness while Kiddushin demands Chesed-unitive consciousness. The extended model formulation is:
+- **Directional Consciousness**: This case reveals that a *get* requires Gevurah-separative consciousness while *kiddushin* demands Chesed-unitive consciousness. The extended model formulation is:
   - **Formula**: P_d(a) = |d| * cos(theta) * a
   - Where d represents directional dimensions.
 
 #### Test Case 22
-- **Non-local Consciousness Discovery**: This case showcases the shaliach agent concept providing insight into representational authority.
+- **Non-local Consciousness Discovery**: This case showcases the *shaliach* agent concept providing insight into representational authority.
   - **Citation**: Kiddushin 41b
 
 ## Test Cases 26-30: Partial Convergence Cases

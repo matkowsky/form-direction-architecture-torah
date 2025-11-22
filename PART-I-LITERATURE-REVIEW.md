@@ -7,9 +7,11 @@
    - **Order is Constitutive:** The organization within creation plays a critical role in shaping existence.
    - **Consciousness Actualizes:** Conscious awareness brings forth and clarifies purpose in a tangible manner.
    
-   **Quotes:**
-   - From *Gevurot Hashem*: [Quote discussing the intrinsic purpose of creation and the role of form in expressing divine will]
-   - From *Tiferet Yisrael*: [Quote illustrating how consciousness and awareness bring purpose into manifestation]
+   **Representative Quotes:**
+   - From *Gevurot Hashem*: [Requires access to original text for specific quote on intrinsic purpose of creation and divine will]
+   - From *Tiferet Yisrael*: [Requires access to original text for specific quote on consciousness actualizing purpose]
+   
+   *Note: Actual citations require consultation of the original Hebrew texts. The framework draws on Maharal's discussions of purpose (*takhlit*), form (*tzurah*), and consciousness (*da'at*) throughout these works.*
 
 ## 1.2 Lurianic Emanational Cosmology
 - **Key Concepts:**

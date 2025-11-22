@@ -46,6 +46,8 @@ The framework provides a unique lens through which Jewish thought can be reevalu
    Identifying practical spheres where these insights can be meaningfully applied, enhancing community understandings.
 
 ## Conclusion
-This analysis summarizes the framework's efficacy with 25 out of 30 (83%) convergence achieved, demonstrating zero instances of falsification throughout the extensive review. 
+This analysis summarizes the framework's efficacy with 25 out of 30 (83%) convergence achieved, demonstrating zero instances of falsification throughout the extensive review.
 
-**Dedicated to Bernard J. Matkowsky (1939-2017)**
+**Important Note:** This framework is presented as a scholarly tool for understanding the structural relationships between different Torah methodologies. It is not intended to establish new halakhic rulings or to replace traditional methods of Torah study and psak (halakhic decision-making). All halakhic questions must continue to be resolved through the established processes of Talmudic analysis and consultation with qualified poskim (halakhic authorities).
+
+**Dedicated to Bernard J. Matkowsky zt"l (1939-2017)**

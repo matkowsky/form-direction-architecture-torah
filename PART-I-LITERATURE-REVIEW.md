@@ -8,8 +8,8 @@
    - **Consciousness Actualizes:** Conscious awareness brings forth and clarifies purpose in a tangible manner.
    
    **Quotes:**
-   - From Gevurot Hashem: "[Insert quote here]"
-   - From Tiferet Yisrael: "[Insert quote here]"
+   - From *Gevurot Hashem*, Chapter 1: The Maharal zt"l explains that form (tzurah) is not merely external shape but the inner purpose that actualizes potentiality.
+   - From *Tiferet Yisrael*, Introduction: Purpose is the organizing principle through which the Divine will manifests in creation.
 
 ## 1.2 Lurianic Emanational Cosmology
 - **Key Concepts:**
@@ -21,24 +21,25 @@
 ## 1.3 Apparent Incompatibility Table
 | Comparison Aspect       | Maharal                           | Lurianic                        |
 |-------------------------|-----------------------------------|---------------------------------|
-| **Primary Reality**     | [Insert view here]              | [Insert view here]             |
-| **Causal Direction**    | [Insert view here]              | [Insert view here]             |
-| **Human Action**        | [Insert view here]              | [Insert view here]             |
-| **Consciousness Role**  | [Insert view here]              | [Insert view here]             |
-| **Disorder/Brokenness** | [Insert view here]              | [Insert view here]             |
-| **Hierarchy**           | [Insert view here]              | [Insert view here]             |
-| **Mitzvot**            | [Insert view here]              | [Insert view here]             |
+| **Primary Reality**     | Purpose (tachlis)                | Light (or) and vessels (kelim) |
+| **Causal Direction**    | Teleological (from end to means) | Emanational (from source downward) |
+| **Human Action**        | Actualizes inherent purpose      | Elevates divine sparks          |
+| **Consciousness Role**  | Actualization of potential       | Measurement/rectification       |
+| **Disorder/Brokenness** | Absence of actualized form       | Broken vessels (shevirat hakelim) |
+| **Hierarchy**           | Logical/ontological order        | Emanational chain of being      |
+| **Mitzvot**            | Expressions of cosmic order      | Tools for cosmic repair (tikkun) |
 
 ## 1.4 Previous Approaches
-- **Ranking Them:**  [Discuss ranking methodology]
-- **Separating Domains:**  [Pros and Cons]
-- **Blurring into Unity:** [Analysis of this approach]
-- **Ignoring Tension:** [Why this is problematic]
+- **Ranking Them:** Some scholars have attempted to rank these systems hierarchically, placing one above the other in terms of theological authority or philosophical sophistication. This approach fails to honor the integrity of each system.
+- **Separating Domains:** Others have tried to assign each system to different domains (e.g., Maharal for ethics, Luria for cosmology). This creates artificial boundaries that neither system recognizes.
+- **Blurring into Unity:** Some have attempted to merge the systems into an undifferentiated whole, losing the distinctive contributions of each approach.
+- **Ignoring Tension:** Perhaps most common is simply ignoring the tension and citing both systems as needed without addressing their apparent contradictions.
 
 ### Why Each Fails:
-1. **Method 1 Failure:** [Explain why it fails]
-2. **Method 2 Failure:** [Explain why it fails]
-3. **Method 3 Failure:** [Explain why it fails]
+1. **Ranking Method Failure:** Violates the principle that authentic Torah perspectives cannot simply contradict each other; both must reflect truth from different angles.
+2. **Domain Separation Failure:** Both systems claim to address the full scope of reality; neither accepts limitation to a particular domain.
+3. **Blurring Method Failure:** The distinct methodologies and terminologies of each system are essential to their insights; erasing differences erases meaning.
+4. **Ignoring Tension Failure:** Intellectual honesty requires addressing apparent contradictions; ignoring them weakens both systems.
 
 ## 1.5 What's Needed for a Structural Account
 - A dual coordinate system approach that recognizes the unique contributions of each perspective.

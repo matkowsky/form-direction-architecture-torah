@@ -2,16 +2,16 @@
 
 ## Primary Jewish Sources
 
-### Maharal of Prague (R. Judah Loew ben Bezalel, 1520-1609)
+### Maharal of Prague (R. Judah Loew ben Bezalel zt"l, c. 1520-1609)
 - *Gevurot Hashem* (The Mighty Acts of God). Prague, 1582.
 - *Tiferet Yisrael* (The Glory of Israel). Prague, 1599.
 - *Netzach Yisrael* (The Eternity of Israel). Prague, 1599.
 - *Derech Chaim* (The Way of Life). Prague, 1589.
 
 ### Lurianic Kabbalah
-- Vital, Chaim. *Etz Chaim* (Tree of Life). c. 1573-1620. Published Koretz, 1782.
-- Vital, Chaim. *Pri Etz Chaim* (Fruit of the Tree of Life). c. 1573-1620.
-- Vital, Chaim. *Sha'ar HaKavanot* (Gate of Intentions). c. 1573-1620.
+- Vital, R. Chaim zt"l. *Etz Chaim* (Tree of Life). c. 1573-1620. Published Koretz, 1782.
+- Vital, R. Chaim zt"l. *Pri Etz Chaim* (Fruit of the Tree of Life). c. 1573-1620.
+- Vital, R. Chaim zt"l. *Sha'ar HaKavanot* (Gate of Intentions). c. 1573-1620.
 
 ### Talmudic Sources
 - *Babylonian Talmud*. Vilna: Romm, 1880-1886.

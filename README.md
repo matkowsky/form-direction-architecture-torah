@@ -1,11 +1,11 @@
 # Overview
 
 ## Abstract
-This repository contains a scholarly paper addressing the four-century theological tension between Maharal of Prague's teleological ontology and Lurianic Kabbalistic emanational cosmology through a novel mathematical-mystical synthesis using Hilbert space theory. The framework achieves 83% empirical convergence across 30 halakhic test cases. For the complete abstract, see [ABSTRACT.md](ABSTRACT.md).
+This repository contains a scholarly paper addressing the four-century theological tension between Maharal of Prague's teleological ontology and Lurianic Kabbalistic emanational cosmology through a novel mathematical-mystical synthesis using Hilbert space theory and matched asymptotic expansions. The framework demonstrates high structural consistency with 83% predictive accuracy across 30 halakhic test cases. For the complete abstract, see [ABSTRACT.md](ABSTRACT.md).
 
 ## Repository Contents
 - Main mathematical constructs
-- Empirical validation tests
+- Test case analysis demonstrating explanatory power
 - Scripts and utilities
 
 ## Key Results
@@ -14,7 +14,7 @@ This repository contains a scholarly paper addressing the four-century theologic
 - **Inner Product Formula**: A novel inner product defining the relationships and projections.
 - **Duality Claim**: Insights into the dual nature of the constructs established.
 
-### Empirical Validation
+### Structural Consistency Analysis
 | Test Case | Result | Convergence |
 |-----------|--------|-------------|
 | 1         | Success| 83%         |
@@ -45,7 +45,7 @@ In memory of **Prof. Bernard J. Matkowsky (1939-2017)**, whose contributions hav
 
 ## Status Checklist
 - [x] Initial research completed
-- [x] Empirical validation completed
+- [x] Structural consistency analysis completed
 - [x] All reviews accepted and incorporated
 
 ## License

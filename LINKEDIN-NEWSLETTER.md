@@ -27,10 +27,10 @@ This project proposes a groundbreaking solution: **These frameworks aren't oppos
 - **Consciousness as Projection Operator**: Mathematical formalization of da'at (conscious awareness)
 - **Matched Asymptotic Expansion Methods**: Inspired by Prof. Bernard J. Matkowsky's combustion theory work
 
-### Empirical Validation
+### Structural Consistency Analysis
 - **30 Halakhic Test Cases** spanning multiple domains of Jewish law
-- **83% Convergence Rate** (25/30 cases) - demonstrating practical validity
-- Rigorous mathematical proofs supporting theoretical constructs
+- **83% Predictive Accuracy** (25/30 cases) - demonstrating high structural consistency and explanatory power
+- Rigorous mathematical derivations supporting theoretical constructs
 
 ---
 
@@ -42,7 +42,7 @@ This research sits at the intersection of:
 - **Jewish Mysticism** (Kabbalah, Hasidic thought)
 - **Practical Law** (Halakha)
 
-It demonstrates how advanced mathematical tools can illuminate ancient philosophical questions and provide testable, empirical validation for metaphysical frameworks.
+It demonstrates how advanced mathematical tools can illuminate ancient philosophical questions and provide testable predictions for metaphysical frameworks, showing high structural consistency across diverse domains.
 
 ---
 
@@ -102,7 +102,7 @@ Key documents to start with:
 - `MAIN-PAPER.md` - Core theoretical framework
 - `DEDICATION-AND-INTRODUCTION.md` - Context and motivation
 - `PART-II-MATHEMATICAL-FOUNDATIONS.md` - Mathematical details
-- `PART-IV-TEST-CASES.md` - Empirical validation
+- `PART-IV-TEST-CASES.md` - Structural consistency analysis
 
 ### 2. **Choose Your Contribution Area**
 - Review existing content in your area of expertise

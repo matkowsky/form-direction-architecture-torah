@@ -21,23 +21,31 @@ The inner product is assembled from the five components:
 
 ### W(m_a, m_b)
 Defines the mitzvah weight component:
-- Formula: W(m_a, m_b) = ...  
+- Formula: W(m_a, m_b) = { 1 if m_a = m_b; ρ(m_a, m_b) ∈ [0,1] if m_a and m_b are related; 0 if m_a and m_b are unrelated }
+- Where ρ(m_a, m_b) represents the degree of relationship between two different mitzvot based on shared purpose or categorical proximity
 
 ### I(θ_a, θ_b)
 Intention alignment:
-- Formula: I(θ_a, θ_b) = ...  
+- Formula: I(θ_a, θ_b) = cos(θ) where θ is the angle between directional vectors s_a and s_b on the unit sphere S²
+- This captures the alignment of intentions in the space of all possible directions
 
 ### C(c_a, c_b)
 Context compatibility:
-- Formula: C(c_a, c_b) = ...  
+- Formula: C(c_a, c_b) = T(t_a, t_b) × P(p_a, p_b) × R(r_a, r_b)
+- Where T = temporal compatibility, P = place compatibility, R = relational context compatibility
+- Each factor ranges in [0,1] with 1 indicating perfect compatibility
 
 ### D(d_a, d_b)
 Consciousness coupling:
-- Formula: D(d_a, d_b) = ...  
+- Formula: D(d_a, d_b) = √(d_a × d_b) × cos(θ_d)
+- Where d_a, d_b ∈ [0,1] represent consciousness intensity levels, and θ_d is the angle between consciousness direction vectors in S²
+- The geometric mean ensures symmetric coupling, while the directional factor captures consciousness alignment
 
 ### N(n_a, n_b)
 Repetition coupling:
-- Formula: N(n_a, n_b) = ...  
+- Formula: N(n_a, n_b) = 1/√(n_a × n_b) where n_a, n_b ∈ ℕ
+- This normalization factor ensures that repeated actions don't artificially inflate the inner product
+- The inverse square root maintains proper scaling in the Hilbert space
 
 The complete inner product formula can be expressed as:
 
@@ -58,11 +66,11 @@ An example computation for Shabbat candles:
 ## 8. Parameter Summary Table
 | Parameter | Definition | Justification |
 |-----------|------------|---------------|
-| W(m_a, m_b) | Mitzvah Weight | ... |
-| I(θ_a, θ_b) | Intention Alignment | ... |
-| C(c_a, c_b) | Context Compatibility | ... |
-| D(d_a, d_b) | Consciousness Coupling | ... |
-| N(n_a, n_b) | Repetition Coupling | ... |
+| W(m_a, m_b) | Mitzvah Weight | Captures intrinsic and relational value between mitzvot; identity gives 1, relatedness gives partial overlap, unrelated gives 0 |
+| I(θ_a, θ_b) | Intention Alignment | Cosine of angle between intention vectors measures directional alignment in S²; ranges from -1 (opposite) to 1 (aligned) |
+| C(c_a, c_b) | Context Compatibility | Product of temporal, spatial, and relational factors ensures all contextual dimensions align; each factor independently validated |
+| D(d_a, d_b) | Consciousness Coupling | Geometric mean of intensity levels with directional alignment captures both magnitude and direction of consciousness as discovered in Test Case 16 |
+| N(n_a, n_b) | Repetition Coupling | Inverse square root normalization prevents repetition inflation while maintaining Hilbert space structure and convergence properties |
 
 ## 9. Computability and Falsifiability
 Discusses criteria for assessing the model's applicability and potential for empirical testing.

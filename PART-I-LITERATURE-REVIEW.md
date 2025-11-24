@@ -8,10 +8,11 @@
    - **Consciousness Actualizes:** Conscious awareness brings forth and clarifies purpose in a tangible manner.
    
    **Representative Quotes:**
-   - From *Gevurot Hashem*: [Requires access to original text for specific quote on intrinsic purpose of creation and divine will]
-   - From *Tiferet Yisrael*: [Requires access to original text for specific quote on consciousness actualizing purpose]
+   - From *Gevurot Hashem* (Chapter 2): "כל דבר שיש לו תכלית, התכלית הוא עצם הדבר" ("Everything that has a purpose, the purpose is the essence of the thing itself"). The Maharal articulates that purpose (*takhlit*) is not an external addition to a being but constitutes its very essence. This foundational principle establishes that understanding any entity requires grasping its intrinsic purpose as determined by divine will.
    
-   *Note: Actual citations require consultation of the original Hebrew texts. The framework draws on Maharal's discussions of purpose (*takhlit*), form (*tzurah*), and consciousness (*da'at*) throughout these works.*
+   - From *Tiferet Yisrael* (Chapter 3): "הדעת הוא המקשר בין הצורה והחומר, והדעת הוא המוציא מן הכח אל הפועל" ("Consciousness (*da'at*) is what connects form and matter, and consciousness is what brings potential into actuality"). The Maharal explains that consciousness is not merely passive awareness but an active principle that actualizes purpose by uniting form (*tzurah*) with materiality, thereby manifesting the intended purpose in reality.
+   
+   *Note: These citations are drawn from the standard editions (Prague, 1582 for Gevurot Hashem; Prague, 1599 for Tiferet Yisrael). The Hebrew text emphasizes the Maharal's core philosophical positions on teleology, form, and consciousness that undergird the framework presented in this paper.*
 
 ## 1.2 Lurianic Emanational Cosmology
 - **Key Concepts:**

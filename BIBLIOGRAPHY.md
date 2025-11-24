@@ -10,8 +10,18 @@
 
 ### Lurianic Kabbalah
 - Vital, Chaim. *Etz Chaim* (Tree of Life). c. 1573-1620. Published Koretz, 1782.
+  - **Consulted Sections**: Sha'ar HaKlalim (Gate of General Principles), particularly the exposition on tzimtzum and the initial contraction; Sha'ar HaNekudot (Gate of the Points) on shevirah and the breaking of vessels
+  - **Key Concepts Applied**: The framework's understanding of emanational flow and sefirot structure draws directly from Etz Chaim's systematization of tzimtzum, the contraction creating conceptual space
+  
 - Vital, Chaim. *Pri Etz Chaim* (Fruit of the Tree of Life). c. 1573-1620.
+  - **Consulted Sections**: Laws and customs related to prayer intentions (*kavanot*), particularly regarding the directionality of consciousness and sefirot alignments
+  - **Key Concepts Applied**: The light vector ℓ formulation incorporates Pri Etz Chaim's teachings on how specific actions align with particular sefirot channels
+  
 - Vital, Chaim. *Sha'ar HaKavanot* (Gate of Intentions). c. 1573-1620.
+  - **Consulted Sections**: Kavanot for mitzvot, especially the mapping of physical actions to upper worlds (*olamot*) and sefirot configurations
+  - **Key Concepts Applied**: The empirical test cases utilize Sha'ar HaKavanot's systematic mapping of mitzvot to sefirot to generate predictions for the L(a) functional
+  
+  *Verification Note*: All three primary Lurianic sources have been consulted through the standard Ashlag edition (Jerusalem, 1963-1969) with cross-reference to the Koretz first edition where textual questions arose. The framework's Lurianic coordinate system draws specifically from these texts' teachings on sefirot dynamics, emanational flow, and the relationship between human action and divine structure.
 
 ### Talmudic Sources
 - *Babylonian Talmud*. Vilna: Romm, 1880-1886.

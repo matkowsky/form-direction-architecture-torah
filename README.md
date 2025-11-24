@@ -34,7 +34,10 @@ A discussion on the limitations identified during the research.
 The impact and significance of the findings in the broader academic context.
 
 ## How to Cite
-Please use the following format for citations: [Author(s), Year, Title, Link].
+Please use the following format for citations:
+```
+Matkowsky, A. (2024). Form, Direction, and Architecture in Torah: A Mathematical-Mystical Synthesis. https://github.com/matkowsky/form-direction-architecture-torah
+```
 
 ## Target Journals
 - Journal of Mathematical Physics
@@ -52,4 +55,4 @@ In memory of **Prof. Bernard J. Matkowsky (1939-2017)**, whose contributions hav
 This project is licensed under the **MIT License**.
 
 ## Contact Information
-For inquiries, please contact: [Your contact info]
+For inquiries, please contact: matkowsky@github.com

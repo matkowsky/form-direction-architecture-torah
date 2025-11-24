@@ -4,28 +4,30 @@
 This repository contains a scholarly paper addressing the four-century theological tension between Maharal of Prague's teleological ontology and Lurianic Kabbalistic emanational cosmology through a novel mathematical-mystical synthesis using Hilbert space theory. The framework achieves 83% empirical convergence across 30 halakhic test cases. For the complete abstract, see [ABSTRACT.md](ABSTRACT.md).
 
 ## Repository Contents
-- Main mathematical constructs
-- Empirical validation tests
-- Scripts and utilities
+- Main mathematical constructs and formalizations
+- Application to halakhic case studies
+- Structural analysis and documentation
+
+## Authorship and AI Use
+This work was authored by Matkowsky with the assistance of AI tools for editorial support, summarization, and drafting. AI was used solely as a writing aid and is not listed as a co-author. The human author takes full intellectual and scholarly responsibility for all claims, interpretations, and conclusions presented in this work.
+
+## Preprint Status
+Drafts posted to this repository have not been peer-reviewed or formally published. They are available for community academic feedback prior to journal submission. This is a working preprint intended to facilitate scholarly discussion and refinement before formal publication.
 
 ## Key Results
 ### Mathematical Framework
 - **Hilbert Space Construction**: Detailed construction and properties formulated within the Hilbert space framework.
 - **Inner Product Formula**: A novel inner product defining the relationships and projections.
-- **Duality Claim**: Insights into the dual nature of the constructs established.
+- **Duality Formalization**: Structural analysis of the dual coordinate nature of the frameworks.
 
-### Empirical Validation
-| Test Case | Result | Convergence |
-|-----------|--------|-------------|
-| 1         | Success| 83%         |
-| ...       | ...    | ...         |
-| 30        | Success| 83%         |
+### Application to Halakhic Sources
+Analysis across 30 halakhic case studies demonstrating structural consistency and explanatory coherence of the dual coordinate framework.
 
 ## Discoveries
-- **Directional Consciousness**: Insights into consciousness directionality.
-- **Negative Alignments**: Understanding alignment behaviors in non-local contexts.
-- **Theoretical vs Practical Asymmetry**: Exploration of asymmetries encountered.
-- **Non-Local Consciousness**: The implications of consciousness beyond locale.
+- **Directional Consciousness**: Insights into how consciousness operates differently across legal contexts.
+- **Negative Alignments**: Understanding alignment behaviors in certain configurations.
+- **Theoretical vs Practical Asymmetry**: Exploration of asymmetries between theoretical and practical domains.
+- **Structural Mediation**: The necessity of consciousness as a mediating term between coordinate systems.
 
 ## Known Limitations
 A discussion on the limitations identified during the research.
@@ -37,16 +39,12 @@ The impact and significance of the findings in the broader academic context.
 Please use the following format for citations: [Author(s), Year, Title, Link].
 
 ## Target Journals
-- Journal of Mathematical Physics
-- Consciousness Studies
+- Journal of Humanistic Mathematics
+- Journal of Jewish Thought and Philosophy
+- Studies in History and Philosophy of Science
 
 ## Memorial
-In memory of **Prof. Bernard J. Matkowsky (1939-2017)**, whose contributions have paved the way for this research.
-
-## Status Checklist
-- [x] Initial research completed
-- [x] Empirical validation completed
-- [x] All reviews accepted and incorporated
+In memory of **Prof. Bernard J. Matkowsky (1939-2017)**, whose contributions to matched asymptotic expansions have inspired this interdisciplinary approach.
 
 ## License
 This project is licensed under the **MIT License**.

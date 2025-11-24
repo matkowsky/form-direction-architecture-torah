@@ -3,6 +3,8 @@
 ## 1. Overview
 This document presents the mathematical specification of the inner product framework used in the context of evaluating various aspects of spiritual practices, specifically tied to Shabbat candles. The goal is to formalize components that contribute to a comprehensive assessment through a structured mathematical model.
 
+**Epistemic Disclaimer:** This mathematical model is a heuristic tool for resolving textual paradoxes and exploring structural relationships between different systems of Jewish thought. It is not intended to capture or reduce the Divine reality itself, but rather to provide a formal language for understanding how different traditional frameworks relate to one another. All mathematical choices (functions, parameters, operators) are interpretive and motivated by textual considerations rather than empirical measurement. The model's value lies in its explanatory coherence and ability to illuminate previously obscure connections, not in any claim to metaphysical completeness or certainty.
+
 ## 2. Configuration Space (5-component structure)
 The structure of the configuration space is based on five key components:
 - **Mitzvah Weight (W)**: Represents the intrinsic value of the mitzvah performed.
@@ -64,8 +66,8 @@ An example computation for Shabbat candles:
 | D(d_a, d_b) | Consciousness Coupling | ... |
 | N(n_a, n_b) | Repetition Coupling | ... |
 
-## 9. Computability and Falsifiability
-Discusses criteria for assessing the model's applicability and potential for empirical testing.
+## 9. Application and Structural Consistency
+Discusses criteria for assessing the model's applicability and structural coherence with traditional sources. The framework is evaluated based on its ability to explain existing halakhic patterns and resolve apparent tensions between different interpretive traditions.
 
 ## 10. Open Questions
 - What are the implications of variations in parameters on the inner product?

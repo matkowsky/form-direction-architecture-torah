@@ -1,11 +1,11 @@
 # Overview
 
 ## Abstract
-This repository contains a scholarly paper addressing the four-century theological tension between Maharal of Prague's teleological ontology and Lurianic Kabbalistic emanational cosmology through a novel mathematical-mystical synthesis using Hilbert space theory. The framework achieves 83% empirical convergence across 30 halakhic test cases. For the complete abstract, see [ABSTRACT.md](ABSTRACT.md).
+This repository contains a scholarly paper addressing the four-century theological tension between Maharal of Prague's teleological ontology and Lurianic Kabbalistic emanational cosmology through a novel mathematical-mystical synthesis using Hilbert space theory. The framework is applied to 30 halakhic case studies to demonstrate structural consistency. For the complete abstract, see [ABSTRACT.md](ABSTRACT.md).
 
 ## Repository Contents
 - Main mathematical constructs
-- Empirical validation tests
+- Case study applications
 - Scripts and utilities
 
 ## Key Results
@@ -14,12 +14,12 @@ This repository contains a scholarly paper addressing the four-century theologic
 - **Inner Product Formula**: A novel inner product defining the relationships and projections.
 - **Duality Claim**: Insights into the dual nature of the constructs established.
 
-### Empirical Validation
-| Test Case | Result | Convergence |
+### Case Study Applications
+| Case Study | Domain | Structural Alignment |
 |-----------|--------|-------------|
-| 1         | Success| 83%         |
+| 1         | Sukkah Construction | Full Alignment |
 | ...       | ...    | ...         |
-| 30        | Success| 83%         |
+| 30        | Minyan Threshold | Partial Alignment |
 
 ## Discoveries
 - **Directional Consciousness**: Insights into consciousness directionality.
@@ -37,16 +37,11 @@ The impact and significance of the findings in the broader academic context.
 Please use the following format for citations: [Author(s), Year, Title, Link].
 
 ## Target Journals
-- Journal of Mathematical Physics
-- Consciousness Studies
+- Journal of Humanistic Mathematics
+- Journal of Jewish Thought and Philosophy
 
 ## Memorial
 In memory of **Prof. Bernard J. Matkowsky (1939-2017)**, whose contributions have paved the way for this research.
-
-## Status Checklist
-- [x] Initial research completed
-- [x] Empirical validation completed
-- [x] All reviews accepted and incorporated
 
 ## License
 This project is licensed under the **MIT License**.

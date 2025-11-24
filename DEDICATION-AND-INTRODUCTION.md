@@ -14,7 +14,7 @@ The four-century-long tension between **Maharal's teleological ontology** and th
 
 At the heart of this inquiry lies the central claim: the relationship between these two frameworks can be envisioned as dual coordinate systems operating within a **Hilbert space**, rather than opposing metaphysics. This perspective reframes the dialogue and highlights potential synergies rather than conflicts.
 
-Validation against a set of **30 halakhic test cases** reveals a significant convergence rate of **25 out of 30 (83%)**, providing empirical support for the theoretical frameworks proposed herein. This convergence underscores the validity of integrating these distinct yet complementary paradigms.
+Application of the framework to **30 halakhic case studies** demonstrates the structural consistency of the model, revealing how the teleological predictions of the Maharal map to the emanational analyses of Lurianic Kabbalah without contradiction. This application underscores the validity of integrating these distinct yet complementary paradigms.
 
 Finally, this paper will be structured into five parts:
 1. **Historical Context** — A review of the evolution of Maharal's and Luria's ideas.

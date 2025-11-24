@@ -71,6 +71,8 @@ Discusses criteria for assessing the model's applicability and potential for emp
 - What are the implications of variations in parameters on the inner product?
 - How can this model be extended to other spiritual practices?
 
+**Reflection on Model Limitations:** We acknowledge that formalizing the Infinite (Ein Sof) involves inherent reductionism. This model is intended as a map, not the territory—a tool for resolving textual contradictions rather than a claim to capture the Divine essence fully. The mathematical framework serves as a hermeneutic device for understanding relationships between theological concepts, not as a complete ontological description.
+
 ---
 
 **Date:** November 22, 2025  

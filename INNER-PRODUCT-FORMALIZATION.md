@@ -49,7 +49,9 @@ Repetition coupling:
 
 The complete inner product formula can be expressed as:
 
-$$ \langle \cdot , \cdot \rangle = W + I + C + D + N $$
+$$ \langle a , b \rangle = \int_\Omega W(m_a, m_b) \cdot I(s_a, s_b) \cdot C(c_a, c_b) \cdot D(d_a, d_b) \cdot N(n_a, n_b) \, d\mu $$
+
+where the product of the five components is integrated over the configuration space with respect to the measure μ. This captures the simultaneous alignment across all five dimensions of the mitzvah space.
 
 ## 5. Purpose Vector p fully specified
 The purpose vector p is defined by:

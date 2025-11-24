@@ -86,8 +86,8 @@ We show that M(a) = ⟨a,p⟩
 ### Theorem 4.3
 We demonstrate that L(a) = ⟨a,ℓ⟩  
 
-## 5. Theorem 5.1 on M = L*
-**Statement:** The Maharal functional M and Lurianic functional L satisfy the adjoint relationship M = L*, meaning ⟨M(a), b⟩ = ⟨a, L(b)⟩ for all a, b ∈ H.
+## 5. Theorem 5.1 on M̂ = L̂*
+**Statement:** The Maharal operator M̂ and Lurianic operator L̂ satisfy the adjoint relationship M̂ = L̂*, meaning ⟨M̂(a), b⟩ = ⟨a, L̂(b)⟩ for all a, b ∈ H.
 
 **Conceptual Clarification:** We distinguish between two related constructions:
 1. **Functionals**: M, L : H → ℂ given by M(a) = ⟨a, p⟩ and L(a) = ⟨a, ℓ⟩ (scalar-valued)
@@ -109,9 +109,9 @@ Computing the right side:
 ⟨a, L̂(b)⟩_H = ⟨a, ⟨b, ℓ⟩ℓ⟩ = ⟨b, ℓ⟩⟨a, ℓ⟩ = ⟨a, ℓ⟩⟨ℓ, b⟩
 
 The adjoint relationship M̂ = L̂* holds exactly when p and ℓ are parallel (or anti-parallel) in H:
-p = λℓ for some λ ∈ ℂ with |λ| = 1
+p = λℓ for some non-zero λ ∈ ℂ
 
-This means the purpose coordinate and light coordinate are fundamentally the same direction in Hilbert space, differing only by a phase factor—they represent dual aspects of the same underlying reality.
+This means the purpose coordinate and light coordinate are fundamentally in the same direction in Hilbert space, differing only by a complex scalar—they represent dual aspects of the same underlying reality. The scalar λ captures potential phase and magnitude differences between the two frameworks' scaling conventions.
 
 **Empirical Validation:** Across 30 halakhic test cases:
 - Perfect convergence: 25 cases (83.3%) where |M(a) - L(a)| < 0.1 on a normalized scale [0,1]

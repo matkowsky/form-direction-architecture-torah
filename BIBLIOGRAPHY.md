@@ -21,7 +21,7 @@
   - **Consulted Sections**: Kavanot for mitzvot, especially the mapping of physical actions to upper worlds (*olamot*) and sefirot configurations
   - **Key Concepts Applied**: The empirical test cases utilize Sha'ar HaKavanot's systematic mapping of mitzvot to sefirot to generate predictions for the L(a) functional
   
-  *Verification Note*: All three primary Lurianic sources have been consulted through the Ashlag edition: *Kitvei HaAri* (Writings of the Arizal), edited by Yehuda Ashlag (Jerusalem: Yeshivat Kol Yehuda, 1963, 1965, 1969 for respective volumes) with cross-reference to the Koretz first edition (1782) where textual questions arose. The framework's Lurianic coordinate system draws specifically from these texts' teachings on sefirot dynamics, emanational flow, and the relationship between human action and divine structure.
+  *Verification Note*: The framework's Lurianic coordinate system draws on these three primary Lurianic sources through consultation of the Ashlag edition: *Kitvei HaAri* (Writings of the Arizal), edited by Yehuda Ashlag (Jerusalem: Yeshivat Kol Yehuda, 1963, 1965, 1969 for respective volumes) with reference to the Koretz first edition (1782) for historical comparison. The framework incorporates these texts' core teachings on sefirot dynamics, emanational flow, and the relationship between human action and divine structure as foundational to the Lurianic coordinate system construction.
 
 ### Talmudic Sources
 - *Babylonian Talmud*. Vilna: Romm, 1880-1886.

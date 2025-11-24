@@ -102,7 +102,7 @@ Key documents to start with:
 - `MAIN-PAPER.md` - Core theoretical framework
 - `DEDICATION-AND-INTRODUCTION.md` - Context and motivation
 - `PART-II-MATHEMATICAL-FOUNDATIONS.md` - Mathematical details
-- `PART-IV-TEST-CASES.md` - Empirical validation
+- `PART-IV-TEST-CASES.md` - Case study applications
 
 ### 2. **Choose Your Contribution Area**
 - Review existing content in your area of expertise

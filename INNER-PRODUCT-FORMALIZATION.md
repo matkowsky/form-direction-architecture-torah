@@ -69,7 +69,7 @@ An example computation for Shabbat candles:
 | W(m_a, m_b) | Mitzvah Weight | Captures intrinsic and relational value between mitzvot; identity gives 1, relatedness gives partial overlap, unrelated gives 0 |
 | I(θ_a, θ_b) | Intention Alignment | Cosine of angle between intention vectors measures directional alignment in S²; ranges from -1 (opposite) to 1 (aligned) |
 | C(c_a, c_b) | Context Compatibility | Product of temporal, spatial, and relational factors ensures all contextual dimensions align; each factor independently validated |
-| D(d_a, d_b) | Consciousness Coupling | Geometric mean of intensity levels with directional alignment captures both magnitude and direction of consciousness as discovered in Test Case 16 |
+| D(d_a, d_b) | Consciousness Coupling | Geometric mean of intensity levels with directional alignment captures both magnitude and direction of consciousness; the directional component was discovered through analysis of the Get (divorce) case where unitive consciousness invalidates separative actions |
 | N(n_a, n_b) | Repetition Coupling | Inverse square root normalization prevents repetition inflation while maintaining Hilbert space structure and convergence properties |
 
 ## 9. Computability and Falsifiability

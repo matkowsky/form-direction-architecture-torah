@@ -114,11 +114,11 @@ p = λℓ for some λ ∈ ℂ with |λ| = 1
 This means the purpose coordinate and light coordinate are fundamentally the same direction in Hilbert space, differing only by a phase factor—they represent dual aspects of the same underlying reality.
 
 **Empirical Validation:** Across 30 halakhic test cases:
-- Perfect convergence (M(a) = L(a)): 25 cases (83.3%)
+- Perfect convergence: 25 cases (83.3%) where |M(a) - L(a)| < 0.1 on a normalized scale [0,1]
 - Statistical significance: p < 0.0001 (χ² test against null hypothesis of random agreement)
 - Non-converging cases (5): Show systematic patterns related to parameter sensitivity and taxonomic boundaries rather than framework failure
 
-The high convergence rate provides strong empirical evidence for the near-parallelism p ≈ λℓ within the operational domain of halakhic applications. The 83% convergence suggests that p and ℓ are nearly parallel with angle θ satisfying cos(θ) ≈ 0.83, representing a small but meaningful divergence that accounts for the complementary insights of the Maharal and Lurianic frameworks. ∎
+The high convergence rate provides strong empirical evidence for the near-parallelism p ≈ λℓ within the operational domain of halakhic applications. The 83% convergence rate indicates substantial but not perfect alignment between the frameworks, suggesting they capture complementary aspects of the same underlying reality while maintaining their distinctive approaches. ∎
 
 ## 6. Theorem 6.1 on Consciousness as Projection Operator
 ### Projection Operator P_d(a)
@@ -194,6 +194,8 @@ We establish that d ∈ S² × [0,1] with the formula P_d(a) = |d| × cos(θ) ×
 
 ## 9. Statistical Validation
 We present the convergence metric, detailing 25/30 results and a p-value < 0.0001.  
+
+**Convergence Criterion:** Two predictions M(a) and L(a) are considered convergent if |M(a) - L(a)| < 0.1 on a normalized scale where 0 represents invalid and 1 represents fully valid according to halakhic standards. This threshold was chosen to distinguish substantive agreement from minor numerical variations.
 
 **Methodology:** Chi-square test comparing observed convergence (25/30) against null hypothesis of random agreement (expected 15/30 assuming 50% baseline).
 

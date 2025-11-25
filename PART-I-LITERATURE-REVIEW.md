@@ -7,11 +7,13 @@
    - **Order is Constitutive:** The organization within creation plays a critical role in shaping existence.
    - **Consciousness Actualizes:** Conscious awareness brings forth and clarifies purpose in a tangible manner.
    
-   **Representative Quotes:**
-   - From *Gevurot Hashem*: [Requires access to original text for specific quote on intrinsic purpose of creation and divine will]
-   - From *Tiferet Yisrael*: [Requires access to original text for specific quote on consciousness actualizing purpose]
+   **Representative Quotations (Pending Primary Source Verification):**
+   - From *Gevurot Hashem*: 
+     > [CITATION NEEDED: Specific passage on intrinsic purpose of creation and divine will. Consult original Hebrew text, chapters dealing with *takhlit* (purpose).]
+   - From *Tiferet Yisrael*: 
+     > [CITATION NEEDED: Specific passage on consciousness actualizing purpose. Consult original Hebrew text, chapters dealing with *da'at* (consciousness/knowledge).]
    
-   *Note: Actual citations require consultation of the original Hebrew texts. The framework draws on Maharal's discussions of purpose (*takhlit*), form (*tzurah*), and consciousness (*da'at*) throughout these works.*
+   *Note: Citations require consultation of the original Hebrew texts (Vilna/Warsaw editions recommended). The framework draws on Maharal's discussions of purpose (*takhlit*), form (*tzurah*), and consciousness (*da'at*) throughout these works. Section/chapter numbers and page references should be added upon verification.*
 
 ## 1.2 Lurianic Emanational Cosmology
 - **Key Concepts:**
@@ -19,6 +21,13 @@
    - **Shevirah:** The breaking of vessels leading to the scattering of divine sparks.
    - **Tikkun:** The process of restoration and rectifying the world.
    - **Sefirot:** The ten attributes through which the Infinite reveals itself to the finite world.
+
+   **Primary Source References (Pending Verification):**
+   - For *Tzimtzum*: See Vital, *Etz Chaim*, Sha'ar 1 (*Heichal Adam Kadmon*).
+   - For *Shevirah*: See Vital, *Etz Chaim*, Sha'ar 8-9.
+   - For *Tikkun*: See Vital, *Etz Chaim*, Sha'ar 10-11; *Sha'ar HaKavanot*.
+   
+   *Note: Page numbers and specific section references should be verified against standard editions (Ashlag or Brandwein editions recommended).*
 
 ## 1.3 Apparent Incompatibility Table
 | Comparison Aspect       | Maharal                           | Lurianic                        |

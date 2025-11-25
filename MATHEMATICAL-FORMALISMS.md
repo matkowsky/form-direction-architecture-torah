@@ -1,6 +1,6 @@
 # Mathematical Formalisms
 
-*Note: The mathematical constructions presented in this document are structural heuristics designed to model the conceptual relationships described in Maharal's and Lurianic texts. These formalisms are tools for resolving textual paradox and enabling consistent interpretation, rather than empirical claims about metaphysical reality.*
+*Note: The mathematical constructions presented in this document are structural heuristics—mathematical frameworks chosen for their ability to capture and relate concepts described in traditional texts, rather than derived from experimental data. Unlike empirical models validated through physical measurement, these formalisms are tools for resolving textual paradox and enabling consistent interpretation. They provide a formal language for comparing and synthesizing distinct theological frameworks.*
 
 ## 1. Construction of Configuration Space Ω = M × S² × C × [0,1] × ℕ with Measure Structure
 In this section, we construct the configuration space using the Cartesian product of M, S², C, [0,1], and ℕ. We provide a detailed description of the measure structure applied on this space. The formalization that Ω is measurable is presented alongside Proposition 1.1.
@@ -16,6 +16,8 @@ We establish that H forms a Hilbert space by demonstrating the vector space stru
 *Note: The functional forms below are chosen as structural heuristics to model relationships described in the classical texts. These choices are motivated by interpretive and pedagogical considerations rather than experimental reproducibility.*
 
 ### Mitzvah Weight W(m_a,m_b)
+*Note: The discrete weighting scheme models the categorical nature of mitzvot classification in halakhic literature, where relatedness is determined by taxonomic proximity.*
+
 W(m_a,m_b) = { 
 1 if m_a and m_b are the same, 
 0-1 if m_a and m_b are related, 
@@ -28,6 +30,8 @@ W(m_a,m_b) = {
 I(s_a,s_b) = cos(θ)  
 
 ### Context Compatibility C(x_a,x_b)
+*Note: The multiplicative form T × P × R represents time, place, and relational context factors. This models how contextual alignment requires all dimensions to be present simultaneously.*
+
 C(x_a,x_b) = T × P × R  
 
 ### Consciousness Correlation D(d_a,d_b)
@@ -36,6 +40,8 @@ C(x_a,x_b) = T × P × R
 D(d_a,d_b) = √(d_a × d_b)  
 
 ### Repetition Normalization N(n_a,n_b)
+*Note: The inverse square root normalization ensures that repeated actions contribute diminishing marginal weight, reflecting the principle that habituation affects spiritual significance.*
+
 N(n_a,n_b) = 1/√(n_a × n_b)  
 
 ## 4. Riesz Representation Mappings

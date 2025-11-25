@@ -7,7 +7,7 @@ This repository contains a scholarly paper addressing the four-century theologic
 **Note:** The materials in this repository are draft manuscripts that have not been peer-reviewed or formally published. They are made available for community academic feedback prior to journal submission.
 
 ## Authorship Practices
-This work was authored by a human researcher. AI tools were used for editorial, summarization, and drafting support only and are not listed as co-authors. The human author takes full responsibility for all content, claims, and intellectual contributions.
+This work was authored by a human researcher. AI tools were used for editorial assistance, summarization, and drafting support only and are not listed as co-authors. The human author takes full responsibility for all content, claims, and intellectual contributions.
 
 ## Repository Contents
 - Main mathematical constructs

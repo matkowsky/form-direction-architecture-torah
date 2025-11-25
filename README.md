@@ -55,4 +55,4 @@ In memory of **Prof. Bernard J. Matkowsky (1939-2017)**, whose contributions hav
 This project is licensed under the **MIT License**.
 
 ## Contact Information
-For inquiries, please contact: [Your contact info]
+For inquiries, please open an issue on this repository or contact the repository owner via GitHub.

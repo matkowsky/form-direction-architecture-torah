@@ -19,6 +19,7 @@ This work was authored by a human researcher. AI tools were used for editorial a
 - **Hilbert Space Construction**: Detailed construction and properties formulated within the Hilbert space framework.
 - **Inner Product Formula**: A novel inner product defining the relationships and projections.
 - **Duality Claim**: Insights into the dual nature of the constructs established.
+- **Quantum Logic Extension**: Linear operator theory demonstrating the non-commutativity of Teleological and Emanational operators (see [QUANTUM-LOGIC-AND-UNCERTAINTY.md](QUANTUM-LOGIC-AND-UNCERTAINTY.md)).
 
 ### Structural Alignment
 | Case Study | Result | Convergence |
@@ -32,6 +33,7 @@ This work was authored by a human researcher. AI tools were used for editorial a
 - **Negative Alignments**: Understanding alignment behaviors in non-local contexts.
 - **Theoretical vs Practical Asymmetry**: Exploration of asymmetries encountered.
 - **Non-Local Consciousness**: The implications of consciousness beyond locale.
+- **Theological Uncertainty Principle**: A formal limit to simultaneously knowing halakhic precision and intentional flow, derived from the non-commutativity of the Form and Light operators.
 
 ## Known Limitations
 A discussion on the limitations identified during the research.

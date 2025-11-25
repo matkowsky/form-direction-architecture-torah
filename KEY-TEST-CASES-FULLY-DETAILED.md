@@ -1,13 +1,13 @@
-# KEY-TEST-CASES-FULLY-DETAILED
+# KEY CASE STUDIES - FULLY DETAILED
 
 **Date:** 2025-11-22  
 **Author:** matkowsky  
 **Dedicated to:** Bernard J. Matkowsky (1939-2017)  
 
 ## Introduction  
-This document presents the nine most critical test cases that demonstrate the key findings of the framework. Each test case has been meticulously analyzed to reveal its significance in the broader context of the research.
+This document presents the nine most critical case studies that demonstrate the key findings of the framework. Each case study has been meticulously analyzed to reveal its significance in the broader context of the research.
 
-### Test Case 16: *Get* with Unitive Consciousness  
+### Case Study 16: *Get* with Unitive Consciousness  
 #### Maharal Analysis from *Tiferet Yisrael*  
 The Maharal discusses the concept of purposive separation versus unity, emphasizing how unity underlies the functional aspect of divine command.
 > "The separation is not merely physical but deeply rooted in the consciousness of purpose..."  
@@ -35,21 +35,21 @@ This discovery illustrates that consciousness encompasses direction, not just ma
     - *Get* with Chesed Consciousness: θ ≈ π, therefore cos(θ) ≈ -1 ⇒ Invalid.  
     - *Kiddushin* with Chesed Consciousness: θ ≈ 0, therefore cos(θ) ≈ 1 ⇒ Valid.  
 
-### Test Case 22: *Shaliach*  
-This case reveals non-local consciousness discovery wherein the action transcends spatial limitations.
+### Case Study 22: *Shaliach*  
+This case study reveals non-local consciousness discovery wherein the action transcends spatial limitations.
 
-### Full Convergence Details for Test Cases 1, 2, 8, 10  
-These test cases demonstrate the convergence of predictions M and L with rigorous analysis reflecting perfect alignment.
+### Full Convergence Details for Case Studies 1, 2, 8, 10  
+These case studies demonstrate the convergence of predictions M and L with rigorous analysis reflecting alignment.
 
-### Test Case 6: Negative Alignment  
-Illustrates how certain cases depict opposing forces leading to negative correlativity.
+### Case Study 6: Negative Alignment  
+Illustrates how certain case studies depict opposing forces leading to negative correlativity.
 
-### Test Case 7: Linear Degradation Formula  
+### Case Study 7: Linear Degradation Formula  
 Presenting a formula that captures the degradation observed in longitudinal studies.
 
-### Test Case 26: Sukkah 10 Tefachim  
-As the best partial convergence example, both frameworks agree on the threshold of 10 but diverge on the rationale:  
+### Case Study 26: Sukkah 10 Tefachim  
+As the exemplary partial convergence case study, both frameworks agree on the threshold of 10 but diverge on the rationale:  
 - Why specifically 10 vs. 7 or 12?  
 
 ### Conclusion  
-These nine cases encapsulate the framework's major findings: zero falsifications, directional consciousness, non-local consciousness, perfect convergence, negative alignment, linear degradation, and partial convergence patterns.
+These nine case studies encapsulate the framework's major findings: no contradictions, directional consciousness, non-local consciousness, structural convergence, negative alignment, linear degradation, and partial convergence patterns.

@@ -8,10 +8,13 @@
 This paper is dedicated to **Bernard J. Matkowsky (1939-2017)**. His groundbreaking work on matched asymptotic expansions has provided structural parallels essential to both combustion phenomena and the Maharal-Lurianic problem, highlighting the depths of mathematical thought and philosophical inquiry.
 
 ## Introduction
+
+Just as matched asymptotic expansions allow for two distinct mathematical descriptions (inner and outer solutions) to coexist within a single physical event, this paper argues that Maharal's Teleological Ontology and Lurianic Emanational Cosmology represent 'inner' and 'outer' expansions of a single metaphysical reality.
+
 For four centuries, there has been a tension between Maharal's teleological ontology and Lurianic emanational cosmology. This paper seeks to explore this tension and offer a synthesis that will illuminate the dual nature of these frameworks.
 
 ### Central Claim
-This paper proposes that the apparent tension between Maharal's teleological ontology and Lurianic emanational cosmology can be resolved by recognizing them as dual coordinate systems operating within a unified Hilbert space framework. Rather than competing metaphysical systems, they represent complementary perspectives on the same underlying reality, analogous to purpose and light coordinates in a mathematical structure. This claim is validated through empirical testing against 30 halakhic test cases, achieving 25/30 (83%) convergence with zero falsifications.
+This paper proposes that the apparent tension between Maharal's teleological ontology and Lurianic emanational cosmology can be resolved by recognizing them as dual coordinate systems operating within a unified Hilbert space framework. Rather than competing metaphysical systems, they represent complementary perspectives on the same underlying reality, analogous to purpose and light coordinates in a mathematical structure. This claim is supported through structural analysis of 30 halakhic case studies, achieving convergence in 25 of 30 cases with no contradictions.
 
 ### Structure of the Paper
 1. **Literature Review**  

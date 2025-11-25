@@ -3,6 +3,8 @@
 ## 1. Overview
 This document presents the mathematical specification of the inner product framework used in the context of evaluating various aspects of spiritual practices, specifically tied to Shabbat candles. The goal is to formalize components that contribute to a comprehensive assessment through a structured mathematical model.
 
+**Epistemic Note:** The mathematical constructions presented here are structural heuristics intended to model conceptual relationships found in traditional texts. They serve as tools for resolving textual paradox and enabling consistent interpretation of the Maharal-Lurianic synthesis. This model does not claim to capture Divine truth in mathematical form, but rather offers a formal language for discussing and relating concepts that appear in these distinct but complementary traditions.
+
 ## 2. Configuration Space (5-component structure)
 The structure of the configuration space is based on five key components:
 - **Mitzvah Weight (W)**: Represents the intrinsic value of the mitzvah performed.
@@ -64,8 +66,8 @@ An example computation for Shabbat candles:
 | D(d_a, d_b) | Consciousness Coupling | ... |
 | N(n_a, n_b) | Repetition Coupling | ... |
 
-## 9. Computability and Falsifiability
-Discusses criteria for assessing the model's applicability and potential for empirical testing.
+## 9. Structural Alignment and Applicability
+Discusses criteria for assessing the model's applicability as a structural tool for resolving textual paradox and relating concepts across traditions. The framework is understood as explanatory and hermeneutic rather than empirically falsifiable in the scientific sense.
 
 ## 10. Open Questions
 - What are the implications of variations in parameters on the inner product?

@@ -45,6 +45,6 @@
 
 ## 1.5 What's Needed for a Structural Account
 - A dual coordinate system approach that recognizes the unique contributions of each perspective.
-- Testable predictions must be articulated to show a convergence of 25/30 (83%) in halakhic test cases, thereby affirming the validity of both frameworks in addressing complex theological questions.
+- Structural analysis demonstrating consistency through case studies, thereby affirming the validity of both frameworks in addressing complex theological questions.
 
 ---

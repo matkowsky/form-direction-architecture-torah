@@ -1,7 +1,9 @@
 # Overview
 
+> ⚠️ **DRAFT NOTICE**: This repository is a work in progress and is **not yet ready for citation**. The content, methodology, and conclusions may change substantially before final publication. Please do not cite or reference this material in academic or other works until a stable release is announced. Contact the author for permission before referencing.
+
 ## Abstract
-This repository contains a scholarly paper addressing the four-century theological tension between Maharal of Prague's teleological ontology and Lurianic Kabbalistic emanational cosmology through a novel mathematical-mystical synthesis using Hilbert space theory. The framework achieves 83% empirical convergence across 30 halakhic test cases. For the complete abstract, see [ABSTRACT.md](ABSTRACT.md).
+This repository contains a scholarly paper addressing the four-century theological tension between Maharal of Prague's teleological ontology and Lurianic Kabbalistic emanational cosmology through a novel mathematical framework.
 
 ## Repository Contents
 - Main mathematical constructs
@@ -34,7 +36,7 @@ A discussion on the limitations identified during the research.
 The impact and significance of the findings in the broader academic context.
 
 ## How to Cite
-Please use the following format for citations: [Author(s), Year, Title, Link].
+> 🚫 **Please do not cite this work at this time.** This project is currently in draft status. Citation guidelines will be provided once a stable version is released.
 
 ## Target Journals
 - Journal of Mathematical Physics
@@ -47,6 +49,7 @@ In memory of **Prof. Bernard J. Matkowsky (1939-2017)**, whose contributions hav
 - [x] Initial research completed
 - [x] Empirical validation completed
 - [x] All reviews accepted and incorporated
+- [ ] Ready for citation
 
 ## License
 This project is licensed under the **MIT License**.

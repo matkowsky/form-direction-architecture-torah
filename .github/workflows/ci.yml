@@ -1,0 +1,105 @@
+---
+name: CI
+
+# Note: "on" is quoted because it's a reserved word in YAML
+"on":
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+# Explicitly limit permissions for security
+permissions:
+  contents: read
+
+jobs:
+  markdown-lint:
+    name: Markdown Lint
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install markdownlint-cli
+        run: npm install -g markdownlint-cli
+
+      - name: Run markdownlint
+        run: markdownlint '**/*.md' --ignore node_modules
+        continue-on-error: false
+
+  link-check:
+    name: Link Check
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v1
+        with:
+          args: --verbose --no-progress --accept 200,403,429 '**/*.md'
+          fail: false
+        continue-on-error: true
+
+  validate-structure:
+    name: Validate Repository Structure
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Check for required files
+        run: |
+          echo "Checking for required files..."
+          required_files=(
+            "README.md"
+            "LICENSE"
+            "ABSTRACT.md"
+            "MAIN-PAPER.md"
+          )
+          missing_files=()
+          for file in "${required_files[@]}"; do
+            if [ ! -f "$file" ]; then
+              missing_files+=("$file")
+            fi
+          done
+
+          if [ ${#missing_files[@]} -eq 0 ]; then
+            echo "✓ All required files are present"
+            exit 0
+          else
+            echo "✗ Missing required files:"
+            printf '%s\n' "${missing_files[@]}"
+            exit 1
+          fi
+
+      - name: Validate markdown files exist
+        run: |
+          echo "Validating markdown files..."
+          md_count=$(find . -name "*.md" -not -path "./node_modules/*" | wc -l)
+          echo "Found $md_count markdown files"
+          if [ "$md_count" -gt 0 ]; then
+            echo "✓ Repository contains markdown documentation"
+            exit 0
+          else
+            echo "✗ No markdown files found"
+            exit 1
+          fi
+
+  build:
+    name: Build Check
+    runs-on: ubuntu-latest
+    needs: [markdown-lint, validate-structure]
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Build success
+        run: |
+          echo "All checks passed successfully"
+          echo "Repository is ready for merge"

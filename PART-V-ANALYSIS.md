@@ -24,7 +24,7 @@
 
 ## Five Known Limitations
 1. **Numerical Parameters with Partial Alignment Cases**  
-   Limitation seen where numerical parameters present structural divergence in 5 cases while maintaining validity alignment.
+   Limitation observed where numerical parameters present structural divergence in 5 cases, though both frameworks maintain agreement on validity thresholds.
 2. **Historical Development**  
    The framework is developed within a specific period of Jewish thought; earlier or later sources may present challenges.
 3. **Taxonomic Boundaries**  
